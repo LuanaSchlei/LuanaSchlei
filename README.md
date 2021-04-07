@@ -17,7 +17,7 @@
   <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/1d/ea/86/1dea86aea96723fc94a5b16e464e107f.gif">
+  <img align="right" alt="Lu-avatar" src="https://i.pinimg.com/originals/1d/ea/86/1dea86aea96723fc94a5b16e464e107f.gif">
 </div>
 
 #
